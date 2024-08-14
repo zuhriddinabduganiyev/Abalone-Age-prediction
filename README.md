@@ -1,6 +1,3 @@
-Here's a `README.md` file template that you can use for your project:
-
----
 
 # Stacking Regressor Model for Age Prediction
 
@@ -59,7 +56,7 @@ After training the stacking regressor, the model was evaluated on the test set:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stacking-regressor-abalone.git
+   git clone https://github.com/zuhriddinabduganiyev/Abalone-Age-prediction.git
    ```
 2. Install the required libraries:
    ```bash
